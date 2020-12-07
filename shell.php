@@ -160,7 +160,7 @@ textarea {
 
 $coin=$_REQ["coin"];
 
-if(!$coin){$coin="RAVENCOIN";}
+if(!$coin){$coin="KEVACOIN";}
 
 
 ?>
